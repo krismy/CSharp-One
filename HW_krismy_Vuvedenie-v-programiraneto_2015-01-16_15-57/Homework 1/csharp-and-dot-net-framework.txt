@@ -1,0 +1,1 @@
+C# is a programming Language and it is a part of .NET Framework, which also contains FCL and CLR..Net Framework provides language interoperability across all the languages based on it while C# understands only its syntaxis.
